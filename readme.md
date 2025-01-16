@@ -48,4 +48,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issue
 
 ## Créditos
 
-Desenvolvido por [Paulo Levi]()
+Desenvolvido por [Paulo Levi](https://naruto-api-ku6q.vercel.app/)(https://github.com/PauloMatiasxvs/naruto_api)(https://www.linkedin.com/in/paulo-levi-oliveira-matias-6524801ab/)
