@@ -22,7 +22,7 @@ function buscarPersonagem() {
       // Verifica se o characterName é um número
       if (!isNaN(characterName)) {
         // Se for um número, buscar por número
-        fetch(`https://narutodb.xyz/api/character/${characterName}`)
+        fetch(`https://dattebayo-api.onrender.com/${characterName}`)
           .then((response) => response.json())
           .then((characterData) => {
               exibirPersonagem(characterData);
